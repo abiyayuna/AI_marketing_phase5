@@ -1,0 +1,2 @@
+# AI_marketing_phase5
+Sentiment analysis, also known as opinion mining, is a valuable tool in the field of marketing. It involves the use of natural language processing and machine learning techniques to determine and understand the sentiment or emotional tone expressed in text data, such as social media posts, customer reviews, comments, and more. Sentiment analysis is essential for marketing because it allows businesses to gain insights into how their customers and the general public perceive their products, services, and brand.
